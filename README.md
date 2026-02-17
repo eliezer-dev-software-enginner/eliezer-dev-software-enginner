@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Eliezer
 
-Sou desenvolvedor focado em **React / Next.js**, com background sólido em **Java** e experiência criando **frameworks e abstrações próprias** para acelerar desenvolvimento e manter código limpo.
+Sou desenvolvedor Full Stack focado em **React / Next.js**, com background sólido em **Java** e **Node.js** e experiência criando **frameworks e abstrações próprias** para acelerar desenvolvimento e manter código limpo.
 
 Meu foco é construir soluções **simples, reutilizáveis e orientadas a produto**, evitando complexidade desnecessária.
 
@@ -10,6 +10,7 @@ Meu foco é construir soluções **simples, reutilizáveis e orientadas a produt
 - Criando projetos para portfólio com foco em **problemas reais**
 - Desenvolvendo bibliotecas próprias em **JavaFX**
 - Estudando padrões modernos usados no mercado frontend
+- Me aprofundando mais em tecnologias backend
 
 ---
 
