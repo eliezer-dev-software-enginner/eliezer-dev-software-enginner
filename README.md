@@ -1,37 +1,48 @@
 # 👋 Olá, eu sou Eliezer
 
-Sou desenvolvedor Full Stack focado em **React / Next.js**, com background sólido em **Java** e **Node.js** e experiência criando **frameworks e abstrações próprias** para acelerar desenvolvimento e manter código limpo.
+Desenvolvedor **Full Stack** com foco em **Node.js + React / Next.js**, construindo aplicações orientadas a produto com código limpo, reutilizável e fácil de manter.
 
-Meu foco é construir soluções **simples, reutilizáveis e orientadas a produto**, evitando complexidade desnecessária.
+Tenho background em **Java/Spring Boot** e experiência criando **frameworks e abstrações próprias** — o que me dá visão de arquitetura além do comum.
+
+Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa)**.
 
 ---
 
 ## 🚀 O que estou fazendo atualmente
-- Criando projetos para portfólio com foco em **problemas reais**
-- Desenvolvendo bibliotecas próprias em **JavaFX**
-- Estudando padrões modernos usados no mercado frontend
-- Me aprofundando mais em tecnologias backend
+
+- Desenvolvendo projetos de portfólio focados em **problemas reais** com Node.js e Next.js
+- Aprofundando conhecimentos em **APIs REST, autenticação e arquitetura backend com Node.js**
+- Estudando padrões modernos de mercado no ecossistema **React/Next.js**
+- Explorando integrações com filas de mensagem (**RabbitMQ**) em contextos fullstack
 
 ---
 
 ## 🧠 Stack principal
-- **Frontend:** React, Next.js, TypeScript  
-- **Backend:** Java, Spring Boot, Node.js  
-- **Desktop:** JavaFX (sem FXML)  
-- **Banco de dados:** MongoDB, SQLite  
-- **Mensageria:** RabbitMQ  
-- **Outros:** Git, GitHub Actions
+
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** Node.js, Java, Spring Boot  
+**Banco de dados:** MongoDB, SQLite  
+**Mensageria:** RabbitMQ  
+**Outros:** Git, GitHub Actions
 
 ---
 
 ## 📌 Projetos em destaque
-- 🔧 **megalodonte-router** – Router declarativo para JavaFX  
-- 🧩 **megalodonte-ui** – Componentes reutilizáveis inspirados em Jetpack Compose  
-- 📦 **Sistema de estoque** – Projeto simples focado em regra de negócio
+
+- 🔧 **megalodonte-router** – Router declarativo para JavaFX — demonstra domínio de abstrações e arquitetura de componentes
+- 🧩 **megalodonte-ui** – Biblioteca de componentes reutilizáveis inspirada em Jetpack Compose
+- 📦 **Sistema de estoque** – Aplicação com foco em regras de negócio e simplicidade de solução
+
+---
+
+## 🎯 O que busco
+
+Oportunidades como **Desenvolvedor Full Stack** com foco em **Node.js no backend** e **React/Next.js no frontend**, onde possa contribuir com código de qualidade e crescer junto com o produto.
 
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/eliezer-software-enginner
-- LinkedIn: https://www.linkedin.com/in/eliezersoftwareenginner/
-- Blog / Portfólio: https://portifolio-phi-three.vercel.app/
+
+- 🌐 Portfólio: [eliezer-dev.vercel.app](https://eliezer-dev.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/eliezersoftwareenginner](https://www.linkedin.com/in/eliezersoftwareenginner/)
+- 🐙 GitHub: [github.com/eliezer-dev-software-enginner](https://github.com/eliezer-dev-software-enginner)
