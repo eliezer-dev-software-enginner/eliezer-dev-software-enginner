@@ -2,7 +2,7 @@
 
 Desenvolvedor **Full Stack** com foco em **Node.js + React / Next.js**, construindo aplicações orientadas a produto com código limpo, reutilizável e fácil de manter.
 
-Tenho background em **Java/Spring Boot** e experiência criando **frameworks e abstrações próprias** — o que me dá visão de arquitetura além do comum.
+Tenho experiência criando **frameworks e abstrações próprias** e integrando **gateways de pagamento** como Mercado Pago (PIX) em aplicações reais.
 
 Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa)**.
 
@@ -20,17 +20,22 @@ Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa
 ## 🧠 Stack principal
 
 **Frontend:** React, Next.js, TypeScript  
-**Backend:** Node.js, Java, Spring Boot  
+**Backend:** Node.js  
 **Banco de dados:** MongoDB, SQLite  
 **Mensageria:** RabbitMQ  
+**Pagamentos:** Mercado Pago (PIX)  
 **Outros:** Git, GitHub Actions
 
 ---
 
 ## 📌 Projetos em destaque
 
-- 🔧 **megalodonte-router** – Router declarativo para JavaFX — demonstra domínio de abstrações e arquitetura de componentes
-- 🧩 **megalodonte-ui** – Biblioteca de componentes reutilizáveis inspirada em Jetpack Compose
+- 🎮 **Prego Games** – E-commerce de packs de jogos de PlayStation 2, construído com **Next.js** — foco em experiência de compra e organização de catálogo  
+  → [github.com/eliezer-dev-software-enginner/prego-games](https://github.com/eliezer-dev-software-enginner/prego-games)
+
+- 🖥️ **Plics SW – Landing Page** – Site de venda do Plics SW, um ERP desktop offline para Windows e Linux com licença vitalícia, desenvolvido com **Next.js** e pagamentos via **Mercado Pago (PIX)**  
+  → [plics-sw-webpage.vercel.app](https://plics-sw-webpage.vercel.app/)
+
 - 📦 **Sistema de estoque** – Aplicação com foco em regras de negócio e simplicidade de solução
 
 ---
