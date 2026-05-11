@@ -8,7 +8,7 @@ Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa
 
 ---
 
-## 🚀 O que estou fazendo atualmente
+## O que estou fazendo atualmente
 
 - Desenvolvendo projetos de portfólio focados em **problemas reais** com Node.js e Next.js
 - Aprofundando conhecimentos em **APIs REST, autenticação e arquitetura backend com Node.js**
@@ -31,7 +31,7 @@ Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa
 ## 📌 Projetos em destaque
 
 - 🎮 **Prego Games** – E-commerce de packs de jogos de PlayStation 2, construído com **Next.js** — foco em experiência de compra e organização de catálogo  
-  → [github.com/eliezer-dev-software-enginner/prego-games](https://github.com/eliezer-dev-software-enginner/prego-games)
+  → [github.com/eliezer-dev-software-enginner/prego-games](https://prego-games-kohl.vercel.app/)
 
 - 🖥️ **Plics SW – Landing Page** – Site de venda do Plics SW, um ERP desktop offline para Windows e Linux com licença vitalícia, desenvolvido com **Next.js** e pagamentos via **Mercado Pago (PIX)**  
   → [plics-sw-webpage.vercel.app](https://plics-sw-webpage.vercel.app/)
