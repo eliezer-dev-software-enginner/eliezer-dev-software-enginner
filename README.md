@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Eliezer
+# Olá, eu sou Eliezer
 
 Desenvolvedor **Full Stack** com foco em **Node.js + React / Next.js**, construindo aplicações orientadas a produto com código limpo, reutilizável e fácil de manter.
 
