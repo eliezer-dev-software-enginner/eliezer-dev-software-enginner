@@ -20,8 +20,8 @@ Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa
 ## 🧠 Stack principal
 
 **Frontend:** React, Next.js, TypeScript  
-**Backend:** Node.js  
-**Banco de dados:** MongoDB, SQLite  
+**Backend:** Node.js, SpringBoot  
+**Banco de dados:** MongoDB, SQLite, PostgreSQL 
 **Mensageria:** RabbitMQ  
 **Pagamentos:** Mercado Pago (PIX)  
 **Outros:** Git, GitHub Actions
