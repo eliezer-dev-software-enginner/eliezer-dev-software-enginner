@@ -10,9 +10,7 @@ Graduado em **Sistemas de Informação pela UFV (Universidade Federal de Viçosa
 
 ## O que estou fazendo atualmente
 
-- Desenvolvendo projetos de portfólio focados em **problemas reais** com Node.js e Next.js
-- Aprofundando conhecimentos em **APIs REST, autenticação e arquitetura backend com Node.js**
-- Estudando padrões modernos de mercado no ecossistema **React/Next.js**
+- Desenvolvendo projetos de portfólio focados em **problemas reais** com Java, Node.js e Next.js
 - Explorando integrações com filas de mensagem (**RabbitMQ**) em contextos fullstack
 
 ---
