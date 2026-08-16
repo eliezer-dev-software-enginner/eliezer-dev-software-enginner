@@ -30,9 +30,6 @@ I don't just write code and hand it off — with **Plics SW** (see below) I've h
 - A WhatsApp automation pipeline (Node.js, RabbitMQ, Evolution API) with dedicated services for inbound webhooks, personal DM auto-replies, and YouTube-link auto-responses in groups.
 - A company-scraping pipeline (Python/Node) that collects, cleans, and reaches out to leads over WhatsApp, chained through RabbitMQ.
 
-### Game dev
-- Building the same 2D/isometric game ("Roz") in parallel on two engines — **Godot** (GDScript) and **libGDX** (Java, Android + desktop) — to compare workflows, plus a set of libGDX practice exercises.
-
 ## Tech stack
 
 | Area | Technologies |
@@ -50,21 +47,6 @@ I don't just write code and hand it off — with **Plics SW** (see below) I've h
 ## How I work
 
 I move fluidly between writing code by hand and working with AI coding agents, depending on what the task calls for — I don't treat AI as a shortcut that skips understanding the system. On projects like the Plics SW website and Comanda Real, I keep explicit process files (`AGENTS.md`, `AI_RULES.md`, `DECISIONS.md`, `CONTEXT.md`) that define approved stack, conventions, and require agents to explain a plan before editing — the same discipline I'd want from a human collaborator. That means AI-assisted work in my projects is reviewed, constrained, and logged, not copy-pasted.
-
-## Getting started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to see the result. The page auto-updates as you edit `app/page.tsx`.
-
-```bash
-npm run build   # production build
-npm run start   # run the production build
-npm run lint    # lint the project
-```
 
 ## Contact
 
