@@ -1,7 +1,5 @@
 # Eliezer Assunção de Paulo — Portfolio
 
-Source code for my personal portfolio site, built with **Next.js 16**, **React 19**, **TypeScript**, and **Tailwind CSS 4**.
-
 [LinkedIn](https://www.linkedin.com/in/eliezersoftwareenginner/) · [GitHub](https://github.com/eliezer-dev-software-enginner) · [Blog](https://blog-do-eliezer.vercel.app/)
 
 ## About me
